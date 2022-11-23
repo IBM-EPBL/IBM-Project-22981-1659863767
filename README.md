@@ -1,5 +1,5 @@
 # IBM-Project-22981-1659863767
-# <img src="https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2018/08/Header_gif_assembly-1.gif" width="70px"> AI BASED DISCOURSE FOR BANKING INDUSTRY <img src="https://cdn.dribbble.com/users/4908/screenshots/2657565/livechat-animation.gif" height="30px" width="70px">
+# <img src="https://blog-assets.freshworks.com/freshdesk/wp-content/uploads/2018/08/Header_gif_assembly-1.gif" height="30px" width="60px"> AI BASED DISCOURSE FOR BANKING INDUSTRY <img src="https://cdn.dribbble.com/users/4908/screenshots/2657565/livechat-animation.gif" height="30px" width="60px">
 ##                                TEAM ID : PNT2022TMID23608
 
 
